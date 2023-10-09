@@ -1,0 +1,1 @@
+Idag har jag fixat min loggbok och Github
