@@ -1,10 +1,12 @@
 Loggbok 
 =========================
-Lista med mål
+Lista med mål - Yatzy
 ----------------
 
-1. tärningarna
-2. 1 till 6
+1. skapa 5 olika tärningar
+2. skapa ett poängblock (börja med 1-6 )
+3. skapa olika kombinationer som funkar med tärningarna
+4. skapa ett poängsystem
 
 23 11 27
 ------------
