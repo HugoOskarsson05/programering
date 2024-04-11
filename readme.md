@@ -9,6 +9,15 @@ Lista med mål - Yatzy
 4. skapa ett poängsystem
 
 
+
+24 04 08
+------------
+Idag har jag fixat så att man kan slå om träningarna och välja vilka träingar man vill slå om och vilka man vill spara
+
+24 03 25
+------------
+Idag har jag fixat så att man kan välja vilka tärningar som man ska spara efter att man har slått sina tärningar
+
 24 03 21
 ------------
 idag har jag jobbat på mitt projekt
