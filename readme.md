@@ -8,6 +8,11 @@ Lista med mål - Yatzy
 3. skapa olika kombinationer som funkar med tärningarna
 4. skapa ett poängsystem
 
+
+24 03 21
+------------
+idag har jag jobbat på mitt projekt
+
 23 11 27
 ------------
 öva test 10
